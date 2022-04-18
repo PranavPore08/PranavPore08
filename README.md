@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TechCommunity**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android, HTML, C++**
 
