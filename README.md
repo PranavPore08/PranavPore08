@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pranav Pore</h1>
+<h1 align="center">Hi 
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" style="max-width: 100%;"></a>
+  I'm Pranav Pore</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
