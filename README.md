@@ -26,6 +26,7 @@
 <a href="https://linkedin.com/in/pranav-pore-62485415b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-pore-62485415b" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav_pore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_pore" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranavpore08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranavpore08" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pranavpore08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavpore08" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranavpore08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranavpore08" height="30" width="40" /></a>
 </p>
 
