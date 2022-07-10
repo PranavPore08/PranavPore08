@@ -18,7 +18,6 @@
 - 📫 How to reach me **pranavpore08@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Kw7nkZQxHfXhnO2aF7m9AwoV6TqJ3fCE/view?usp=sharing]
-(https://drive.google.com/file/d/1Kw7nkZQxHfXhnO2aF7m9AwoV6TqJ3fCE/view?usp=sharing)
 
 - ⚡ Fun fact **I am Lazy.**
 
