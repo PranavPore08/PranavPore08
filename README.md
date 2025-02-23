@@ -1,19 +1,19 @@
 <h1 align="center">Hi 
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40" style="max-width: 100%;"></a>
   I'm Pranav Pore</h1>
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpore08&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpore08" /> </p>
 
-- 🔭 I’m currently working on **AlmaHub**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://pranav-pore.web.app/](https://pranav-pore.web.app/)
 
-- 💬 Ask me about **Android, HTML, C++**
+- 💬 Ask me about **Java Android, Data Structures**
 
 - 📫 How to reach me **pranavpore08@gmail.com**
 
