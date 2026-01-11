@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pranav-pore.web.app/](https://pranav-pore.web.app/)
 
-- 💬 Ask me about **Java, Spring Booot and Data Structures**
+- 💬 Ask me about **Java, Spring Boot and Data Structures**
 
 - 📫 How to reach me **pranavpore08@gmail.com**
 
