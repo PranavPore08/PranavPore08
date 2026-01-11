@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Java, Spring Boot**
 
-- 🌱 I’m currently learning **Spring boot and Microservices**
+- 🌱 I’m currently learning **Microservices and React**
 
 - 👨‍💻 All of my projects are available at [https://pranav-pore.web.app/](https://pranav-pore.web.app/)
 
