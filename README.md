@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpore08&label=Profile%20views&color=0e75b6&style=flat" alt="pranavpore08" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java, Spring Boot**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring boot and Microservices**
 
 - 👨‍💻 All of my projects are available at [https://pranav-pore.web.app/](https://pranav-pore.web.app/)
 
-- 💬 Ask me about **Java Android, Data Structures**
+- 💬 Ask me about **Java, Spring Booot and Data Structures**
 
 - 📫 How to reach me **pranavpore08@gmail.com**
 
