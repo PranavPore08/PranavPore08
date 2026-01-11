@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pranavpore08@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pranav-pore-62485415b?originalSubdomain=in]
+- 📄 Know more about me [https://www.linkedin.com/in/pranav-pore-62485415b?originalSubdomain=in]
 
 - ⚡ Fun fact **I am Lazy.**
 
